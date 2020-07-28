@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9921aa5-569e-47c0-b39b-3608d925b85c" name="Default Changelist" comment="Commit Message">
+    <list default="true" id="d9921aa5-569e-47c0-b39b-3608d925b85c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595850732159</updated>
       <workItem from="1595850734030" duration="4256000" />
-      <workItem from="1595936897020" duration="262000" />
+      <workItem from="1595936897020" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Message">
       <created>1595852174958</created>
@@ -65,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595852174958</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Message1">
+      <created>1595937189441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595937189441</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,17 +80,18 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
+    <MESSAGE value="Commit Message1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595862336430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595862336430" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1595936962283">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1595937188026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595936962283" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595937188026" />
     <state x="617" y="303" width="301" height="290" key="Github.ShareDialog" timestamp="1595852272004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -97,10 +104,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595851625834" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595937171455">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595937213509">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595937171455" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595937213509" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595936901556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
