@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9921aa5-569e-47c0-b39b-3608d925b85c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/renxi.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jscex-async-powerpack.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jscex-async.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jscex-builderbase.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jscex-jit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jscex-parser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/jscex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/love.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renxi/love0.js" afterDir="false" />
+    <list default="true" id="d9921aa5-569e-47c0-b39b-3608d925b85c" name="Default Changelist" comment="Commit Message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +15,15 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1fGiGH2eDqe55s7h5iDqRUFHgjW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -42,6 +35,16 @@
       <recent name="D:\12asd1.github.io" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/12asd1.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
   </component>
@@ -52,21 +55,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595850732159</updated>
-      <workItem from="1595850734030" duration="1117000" />
+      <workItem from="1595850734030" duration="4256000" />
+      <workItem from="1595936897020" duration="262000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1595852174958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595852174958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="303" key="Github.ShareDialog" timestamp="1595851791820">
+    <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595862336430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="617" y="303" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595851791820" />
+    <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595862336430" />
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1595936962283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595936962283" />
+    <state x="617" y="303" width="301" height="290" key="Github.ShareDialog" timestamp="1595852272004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="617" y="303" width="301" height="290" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595852272004" />
+    <state x="477" y="128" key="MultipleFileMergeDialog" timestamp="1595937054850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="128" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595937054850" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1595851625834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595851625834" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595937171455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595937171455" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595936901556">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595936901556" />
   </component>
 </project>
