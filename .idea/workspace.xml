@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9921aa5-569e-47c0-b39b-3608d925b85c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bg.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/clouds_back.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/clouds_front.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/clouds_left.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/clouds_right.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/clouds_top.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.JPG" afterDir="false" />
+    <list default="true" id="d9921aa5-569e-47c0-b39b-3608d925b85c" name="Default Changelist" comment="Commit Message3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595850732159</updated>
       <workItem from="1595850734030" duration="4256000" />
-      <workItem from="1595936897020" duration="2171000" />
+      <workItem from="1595936897020" duration="2717000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Message">
       <created>1595852174958</created>
@@ -96,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595938585597</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Message3">
+      <created>1595991108717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595991108717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,33 +96,34 @@
     <MESSAGE value="Commit Message" />
     <MESSAGE value="Commit Message1" />
     <MESSAGE value="Commit Message2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Message2" />
+    <MESSAGE value="Commit Message3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595862336430">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595862336430" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1595938584669">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1595991592754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595938584669" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595991592754" />
     <state x="617" y="303" width="301" height="290" key="Github.ShareDialog" timestamp="1595852272004">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="617" y="303" width="301" height="290" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595852272004" />
-    <state x="477" y="128" key="MultipleFileMergeDialog" timestamp="1595937054850">
+    <state x="477" y="128" key="MultipleFileMergeDialog" timestamp="1595991261172">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="128" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595937054850" />
+    <state x="477" y="128" key="MultipleFileMergeDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595991261172" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1595851625834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595851625834" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595938652461">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1595991295247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595938652461" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1595991295247" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595936901556">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
