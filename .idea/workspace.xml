@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/大二上/cboot" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -63,7 +63,9 @@
       <workItem from="1598873966121" duration="11000" />
       <workItem from="1602466893465" duration="2652000" />
       <workItem from="1602661282221" duration="18000" />
-      <workItem from="1605112235207" duration="5815000" />
+      <workItem from="1605112235207" duration="10444000" />
+      <workItem from="1606917005574" duration="1968000" />
+      <workItem from="1606989601814" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Message">
       <created>1595852174958</created>
@@ -205,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605117930299</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit Message20">
+      <created>1605159637436</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605159637436</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Commit Message21">
+      <created>1605159737950</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605159737950</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,32 +248,33 @@
     <MESSAGE value="Commit Message17" />
     <MESSAGE value="Commit Message18" />
     <MESSAGE value="Commit Message19" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Message19" />
+    <MESSAGE value="Commit Message20" />
+    <MESSAGE value="Commit Message21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message21" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605115759232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605115759232" />
-    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1605159635083">
+    <state x="372" y="6" key="CommitChangelistDialog2" timestamp="1605159736649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1080.1880@0.0.1536.824" timestamp="1598274242121" />
-    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605159635083" />
+    <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605159736649" />
     <state x="372" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602467623503" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1596523526750">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606925539644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596523526750" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605174676343" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606925539644" />
     <state x="270" y="54" key="SettingsEditor" timestamp="1605112618846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605112618846" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605159647186">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1605159741989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1080.1880@0.0.1536.824" timestamp="1598274252997" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605159647186" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605159741989" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1598873969335">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
